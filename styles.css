@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif
+}
+body{
+    background-color: rgba(23, 22, 22, 0.93);
+    color: white;
+}
+
+img{
+    border-radius: 10%;
+}
+
+.paragraph{
+    text-align:center;
+    background-color: rgb(199, 183, 183);
+    border-radius:30px;
+    border: 3px dotted;
+    color:black;
+
+}
+
+a{
+    color:rgb(255, 255, 255);
+}
+
+.titles{
+    text-align:center;
+    background-color: rgba(255, 252, 252, 0.713);
+    color:black;
+    border-radius: 20px;
+}
+.titles#main-title{
+    text-align:left;
+}
+
+.highlight{
+    color:rgb(255, 187, 0)
+}
